@@ -1,4 +1,4 @@
-# hello_world 
-# I'm a coder from howso
+# Hello,guys! 
+# I'm a coder from china;
 # welcome everybody come here!
-# if you have more greater advice , so give me Thanks.
+
